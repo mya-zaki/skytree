@@ -1,0 +1,1 @@
+{"driveId":"00621c9r-aa3f-11e6-aac1-bd606a7cf8bf","times":99999,"startTime":{"$reql_type$":"TIME","epoch_time":1479278961.604,"timezone":"+09:00"},"createdAt":{"$reql_type$":"TIME","epoch_time":1479278961.604,"timezone":"+09:00"},"location":{"geometry":{"location":{"$reql_type$":"GEOMETRY","coordinates":[140.12330629999997,35.6050574],"type":"Point"}}}}
